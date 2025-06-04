@@ -405,7 +405,7 @@
             "D": "E",
             "E": "D"
         },
-        "respuesta": "D"
+        "respuesta": "E"
     },
     {
         "numero": 35,
@@ -553,9 +553,9 @@
     },
     {
         "numero": 47,
-        "enunciado": "Varón de 60 años, presenta dolor tipo ardor en epigastrio; en endoscopía digestiva alta de hace 10 años se le encontró: atrofia gástrica y Helicobacter pylori (++); desde hace 4 meses baja 10 kilos de peso y viene presentando llenura precoz. Examen: PA: 110/70 mmHg, FC: 95 X', T°: 37.5 °C; Sat. O2: 98%; se palpa adenopatía supraclavicular izquierda; grupo sanguíneo",
+        "enunciado": "Varón de 60 años, presenta dolor tipo ardor en epigastrio; en endoscopía digestiva alta de hace 10 años se le encontró: atrofia gástrica y Helicobacter pylori (++); desde hace 4 meses baja 10 kilos de peso y viene presentando llenura precoz. Examen: PA: 110/70 mmHg, FC: 95 X', T°: 37.5 °C; Sat. O2: 98%; se palpa adenopatía supraclavicular izquierda; grupo sanguíneo A, Endoscopía alta: lesión ulcerada bien localizada compatible con pólipo velloso. Se sospecha de cáncer gástrico. ¿Qué estudio se debe solicitar para el estadiaje de la enfermedad?",
         "opciones": {
-            "A": "Endoscopía alta: lesión ulcerada bien localizada compatible con \npólipo velloso. Se sospecha de cáncer gástrico. ¿Qué estudio se debe solicitar para el estadiaje de la enfermedad? \nA. Ecoendoscopía",
+            "A": "Ecoendoscopía",
             "B": "Ecografía abdominal",
             "C": "Tomografía axial",
             "D": "Eco Doppler",
