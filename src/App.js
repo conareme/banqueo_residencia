@@ -1,6 +1,13 @@
 import React, { useState, useEffect } from 'react';
 
 const archivosDisponibles = [
+  'Examen_16AB.json',
+  'Examen_17A.json',
+  'Examen_17B.json',
+  'Examen_18A.json',
+  'Examen_18B.json',
+  'Examen_19A.json',
+  'Examen_19B.json',
   'Examen_20A.json',
   'Examen_20B.json',
   'Examen_23A.json',
