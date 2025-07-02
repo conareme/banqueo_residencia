@@ -11,6 +11,8 @@ const archivosDisponibles = [
   'Examen_19B.json',
   'Examen_20A.json',
   'Examen_20B.json',
+  'Examen_21A.json',
+  'Examen_21B.json',
   'Examen_22A.json',
   'Examen_22B.json',
   'Examen_23A.json',
