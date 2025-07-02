@@ -1069,7 +1069,7 @@
     },
     {
         "numero": 90,
-        "enunciado": "Pre escolar de 3 años con herida cortante en caraocasionada por un clavo; madre presenta el carné de vacunas, confirmando que ha cumplido con las inmunizaciones de acuerdo a la edad. ¿Cuál es la indicación con respecto a la profilaxis para tétanos?",
+        "enunciado": "Pre escolar de 3 años con herida cortante en cara ocasionada por un clavo; madre presenta el carné de vacunas, confirmando que ha cumplido con las inmunizaciones de acuerdo a la edad. ¿Cuál es la indicación con respecto a la profilaxis para tétanos?",
         "opciones": {
             "A": "Aplicar toxoide tetánico e inmunoglobulina tetánica",
             "B": "No aplicar vacuna ni inmnoglobulina tetánica",
@@ -1129,7 +1129,7 @@
     },
     {
         "numero": 95,
-        "enunciado": "Lactante de 9 meses traído a emergencia después de presentar convulsión tónico-clónica generalizada de 20 minutos de duracion; madre refiere que constató fiebre unos minutos antes de la convulsión. Antecedentes: niega convulsión previa. Examen: T° rectal: 39 ºC, letárgico, con hemiparesia derecha. ¿Cuál es el diagnóstico más probable?",
+        "enunciado": "Lactante de 9 meses traído a emergencia después de presentar convulsión tónico-clónica generalizada de 20 minutos de duración; madre refiere que constató fiebre unos minutos antes de la convulsión. Antecedentes: niega convulsión previa. Examen: T° rectal: 39 ºC, letárgico, con hemiparesia derecha. ¿Cuál es el diagnóstico más probable?",
         "opciones": {
             "A": "Estado epiléptico febril",
             "B": "Convulsión febril simple",
@@ -1141,7 +1141,7 @@
     },
     {
         "numero": 96,
-        "enunciado": "Gestante de 12 semanas en la que se realiza el Test Integrado para predicción de preeclampsia de inicio precoz, con lo que se le consideró como gestante de alto riesgo para presentar dicha patología. ¿Qué fármaco le indica para la prevención de la misma?",
+        "enunciado": "Gestante de 12 semanas en la que se realiza el Test Integrado para predicción de preeclampsia de inicio precoz, con lo que se la consideró como gestante de alto riesgo para presentar dicha patología. ¿Qué fármaco le indicaría para la prevención de la misma?",
         "opciones": {
             "A": "Vitaminas antioxidantes",
             "B": "L - arginina",
@@ -1153,7 +1153,7 @@
     },
     {
         "numero": 97,
-        "enunciado": "Los hallazgos clínicos iniciales de los síndromes nefriticos agudos comprende:",
+        "enunciado": "Los hallazgos clínicos iniciales de los síndromes nefriticos agudos comprenden:",
         "opciones": {
             "A": "Hiponatremia, encefalopatía y cilindros granulosos",
             "B": "Cilindros céreos, edema crónico y oliguria",
@@ -1189,7 +1189,7 @@
     },
     {
         "numero": 100,
-        "enunciado": "Mujer de 28 años, desde hace dos meses presenta sangrado gingival y equimosis espontáneos en piernas. Examen: despierta, palidez de piel y mucosas, petequias abundantes a predominio de extremidades inferiores, no adenopatías, no hepatoesplenomegalia. Laboratorio: hemoglobina: 12 g/dl; plaquetas: 80,000/ul; ANA (-); anti DNA (-); serología para hepatitis C y VIH negativos; perfil de coagulación normal. ¿Cuál es el diagnóstico?",
+        "enunciado": "Mujer de 28 años, desde hace dos meses presenta sangrado gingival y equímosis espontáneos en piernas. Examen: despierta, palidez de piel y mucosas, petequias abundantes a predominio de extremidades inferiores, no adenopatías, no hepatoesplenomegalia. Laboratorio: hemoglobina: 12 g/dl; plaquetas: 80,000/ul; ANA (-); anti DNA (-); serología para hepatitis C y VIH negativos; perfil de coagulación normal. ¿Cuál es el diagnóstico?",
         "opciones": {
             "A": "Lupus eritematoso sistémico",
             "B": "Vasculitis por sepsis",
